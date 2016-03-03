@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392125771 source:/home/emanuel/Documentos/pruebaarchal/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

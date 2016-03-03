@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1391631033 source:c:\users\sebastian\documents\borrarvect\main.c
+	<stdio.h>
+	<stdlib.h>
+

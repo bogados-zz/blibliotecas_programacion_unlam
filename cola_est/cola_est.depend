@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1392377071 source:/home/emanuel/Programacion/Programación C/cola_est/main.c
+	<stdio.h>
+	<stdlib.h>
+

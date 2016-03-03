@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1392730329 source:/home/emanuel/Programacion/Programación C/pilac/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1393812908 source:/home/emanuel/Programacion/Programación C/bibliotecas/pilac.c
+	<stdio.h>
+	<stdlib.h>
+	"pilac.h"
+	"mi_utilitario.h"
+
+1393810693 /home/emanuel/Programacion/Programación C/bibliotecas/pilac.h
+
+1393028701 /home/emanuel/Programacion/Programación C/bibliotecas/mi_utilitario.h
+

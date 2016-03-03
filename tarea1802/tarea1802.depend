@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1392749585 source:/home/emanuel/Programacion/Programación C/bibliotecas/cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1392745401 /home/emanuel/Programacion/Programación C/bibliotecas/cola.h
+
+1392773472 source:/home/emanuel/Programacion/Programación C/bibliotecas/mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1392826377 /home/emanuel/Programacion/Programación C/bibliotecas/mi_utilitario.h
+
+1392809740 source:/home/emanuel/Programacion/Programación C/bibliotecas/listaD.c
+	<stdio.h>
+	<stdlib.h>
+	"listaD.h"
+
+1392648496 /home/emanuel/Programacion/Programación C/bibliotecas/listaD.h
+

@@ -1,0 +1,6 @@
+#ifndef PILA_DIN_H_INCLUDED
+#define PILA_DIN_H_INCLUDED
+
+
+
+#endif // PILA_DIN_H_INCLUDED

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1393872556 source:c:\users\bogado\programación c\programacion\programación c\bibliotecas\cola_circ.c
+	<stdio.h>
+	<stdlib.h>
+	"cola_circ.h"
+
+1393872334 c:\users\bogado\programación c\programacion\programación c\bibliotecas\cola_circ.h
+
+1392725162 source:c:\users\bogado\programación c\programacion\programación c\cola_circ\main.c
+	<stdio.h>
+	<stdlib.h>
+

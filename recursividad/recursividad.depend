@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1392773472 source:/home/emanuel/Programacion/Programación C/bibliotecas/mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1392826377 /home/emanuel/Programacion/Programación C/bibliotecas/mi_utilitario.h
+
+1392170001 source:/home/emanuel/Programacion/Programación C/bibliotecas/numero.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<math.h>
+	"numero.h"
+
+1391961432 /home/emanuel/Programacion/Programación C/bibliotecas/numero.h
+
+1392897668 source:/home/emanuel/Programacion/Programación C/recursividad/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../bibliotecas/mi_utilitario.h"
+	"../bibliotecas/numero.h"
+

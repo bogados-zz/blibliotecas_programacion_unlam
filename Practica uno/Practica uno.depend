@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1391869362 source:c:\users\bogado\programaci髇 c\bibliotecas\mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1391980181 
+
+1391960694 source:c:\users\bogado\programaci髇 c\practica uno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../bibliotecas/mi_utilitario.h"
+	"../bibliotecas/numero.h"
+
+1391960694 tecas/numero.h"
+
+1391806586 c:\users\bogado\programaci髇 c\bibliotecas\mi_utilitario.h
+
+1391980181 source:c:\users\bogado\programaci髇 c\bibliotecas\numero.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"numero.h"
+
+1391961432 c:\users\bogado\programaci髇 c\bibliotecas\numero.h
+
+1392170001 source:/home/emanuel/Programacion/Programaci贸n C/bibliotecas/numero.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<math.h>
+	"numero.h"
+
+1391961432 /home/emanuel/Programacion/Programaci贸n C/bibliotecas/numero.h
+
+1392480895 source:/home/emanuel/Programacion/Programaci贸n C/bibliotecas/fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	"fecha.h"
+
+1393028701 /home/emanuel/Programacion/Programaci贸n C/bibliotecas/mi_utilitario.h
+
+1392247801 /home/emanuel/Programacion/Programaci贸n C/bibliotecas/fecha.h
+
+1392480868 source:/home/emanuel/Programacion/Programaci贸n C/bibliotecas/mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1392262572 source:/home/emanuel/Programacion/Programaci贸n C/Practica uno/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../bibliotecas/mi_utilitario.h"
+	"../bibliotecas/numero.h"
+	"../bibliotecas/fecha.h"
+	"../bibliotecas/vectores.h"
+
+1392262635 source:/home/emanuel/Programacion/Programaci贸n C/bibliotecas/vectores.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+	"mi_utilitario.h"
+
+1392262322 /home/emanuel/Programacion/Programaci贸n C/bibliotecas/vectores.h
+
+1392480894 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	"fecha.h"
+
+1393028700 c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\mi_utilitario.h
+
+1392247800 c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\fecha.h
+
+1392170000 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\numero.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<math.h>
+	"numero.h"
+
+1391961432 c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\numero.h
+
+1392262634 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\vectores.c
+	<stdio.h>
+	<stdlib.h>
+	"vectores.h"
+	"mi_utilitario.h"
+
+1392262322 c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\vectores.h
+
+1392262572 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\practica uno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../bibliotecas/mi_utilitario.h"
+	"../bibliotecas/numero.h"
+	"../bibliotecas/fecha.h"
+	"../bibliotecas/vectores.h"
+
+1395426764 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1393033609 source:/home/emanuel/Programacion/Programaci贸n C/bibliotecas/mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1393028701 /home/emanuel/Programacion/Programaci贸n C/bibliotecas/mi_utilitario.h
+
+1393254184 source:/home/emanuel/Programacion/Programaci贸n C/arbol/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../bibliotecas/mi_utilitario.h"
+	"../bibliotecas/arbol.h"
+
+1393254496 source:/home/emanuel/Programacion/Programaci贸n C/bibliotecas/arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"mi_utilitario.h"
+
+1393254092 /home/emanuel/Programacion/Programaci贸n C/bibliotecas/arbol.h
+
+1415130999 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\arbol\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../bibliotecas/mi_utilitario.h"
+	"../bibliotecas/arbol.h"
+
+1393028700 c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\mi_utilitario.h
+
+1393254092 c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\arbol.h
+
+1415133133 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+	"mi_utilitario.h"
+
+1415131186 source:c:\users\bogado\programaci髇 c\programacion\programaci髇 c\bibliotecas\mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+

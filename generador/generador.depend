@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1392828862 source:/home/emanuel/Programacion/ProgramaciÃ³n C/generador/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../bibliotecas/mi_utilitario.h"
+
+1393028701 /home/emanuel/Programacion/ProgramaciÃ³n C/bibliotecas/mi_utilitario.h
+
+1393033609 source:/home/emanuel/Programacion/ProgramaciÃ³n C/bibliotecas/mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1395426764 source:c:\users\bogado\programación c\programacion\programación c\bibliotecas\mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1393028700 c:\users\bogado\programación c\programacion\programación c\bibliotecas\mi_utilitario.h
+
+1395426973 source:c:\users\bogado\programación c\programacion\programación c\generador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../bibliotecas/mi_utilitario.h"
+

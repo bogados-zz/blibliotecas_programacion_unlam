@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1392638892 source:/home/emanuel/Programacion/ProgramaciÃ³n C/listaD/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1392638892 source:c:\users\bogado\programación c\programacion\programación c\listad\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1393875515 source:c:\users\bogado\programación c\programacion\programación c\bibliotecas\listad.c
+	<stdio.h>
+	<stdlib.h>
+	"listaD.h"
+
+1393875560 c:\users\bogado\programación c\programacion\programación c\bibliotecas\listad.h
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1392123350 source:/home/emanuel/Documentos/pruebaarch/main.c
+	<stdio.h>
+	<stdlib.h>
+

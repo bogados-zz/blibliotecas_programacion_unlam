@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1393033609 source:/home/emanuel/Programacion/Programación C/bibliotecas/mi_utilitario.c
+	<stdio.h>
+	<stdlib.h>
+	"mi_utilitario.h"
+	<string.h>
+	<ctype.h>
+
+1393028701 /home/emanuel/Programacion/Programación C/bibliotecas/mi_utilitario.h
+
+1393416864 source:/home/emanuel/Programacion/Programación C/Pruebita/main.c
+	<stdio.h>
+	<stdlib.h>
+	"../bibliotecas/mi_utilitario.h"
+

@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1392380161 source:/home/emanuel/Programacion/ProgramaciÃ³n C/listaord/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1393814150 source:/home/emanuel/Programacion/ProgramaciÃ³n C/bibliotecas/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1393813732 /home/emanuel/Programacion/ProgramaciÃ³n C/bibliotecas/lista.h
+
+1429300567 source:f:\programación c\bibliotecas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1429300479 f:\programación c\bibliotecas\lista.h
+
+1392376560 source:f:\programación c\listaord\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1429300567 source:c:\users\sebastian note\desktop\programación c\bibliotecas\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1429300479 c:\users\sebastian note\desktop\programación c\bibliotecas\lista.h
+
+1429301975 source:c:\users\sebastian note\desktop\programación c\listaord\main.c
+	<stdio.h>
+	<stdlib.h>
+	"C:\Users\Sebastian Note\Desktop\Programación C\bibliotecas\lista.h"
+	<string.h>
+
